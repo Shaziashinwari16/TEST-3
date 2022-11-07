@@ -53,15 +53,27 @@ nav li a:hover{
 .Marn{
     position:absolute;
     top:30%;
-    right:57%;
-    bottom:50%;
+    right:50%;
+    bottom:70%;
     font-size:30px;
+    text-align: center;
 }
 
 .Lon{
-    Position:absolute;
+    position:absolute;
     top:20%;
-    Font-size:45px;
+    right: 70%;
+    color: darkgoldenrod;
+    font-size:45px;
+    text-align: center;
+}
+.Lin{
+    position:absolute;
+    bottom: 20%;
+    right: 70%;
+    color: darkgoldenrod;
+    font-size: 25px;
+    text-align: center;
 }
  footer{
     position: relative;
@@ -69,7 +81,7 @@ nav li a:hover{
     right: 0px;
     padding: 15px;
     margin-top: 20px;
-    color: rgb(237, 237, 242);
+    color:white;
     background-color: #012733;
  }
 
